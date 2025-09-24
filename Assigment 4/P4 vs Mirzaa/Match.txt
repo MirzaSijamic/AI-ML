@@ -1,0 +1,722 @@
+000  Game 0
+
+002  P4 1 - 0 Mirzaa
+
+002  P4 2 - 0 Mirzaa
+
+002  P4 2 - 1 Mirzaa
+
+002  P4 2 - 2 Mirzaa
+
+002  P4 2 - 2 Mirzaa
+
+002  P4 3 - 2 Mirzaa
+
+002  P4 3 - 2 Mirzaa
+
+002  P4 4 - 2 Mirzaa
+
+002  P4 4 - 3 Mirzaa
+
+002  P4 4 - 4 Mirzaa
+
+002  P4 5 - 4 Mirzaa
+
+002  P4 5 - 9 Mirzaa
+
+002  P4 6 - 9 Mirzaa
+
+002  P4 7 - 9 Mirzaa
+
+002  P4 7 - 9 Mirzaa
+
+002  P4 8 - 9 Mirzaa
+
+002  P4 8 - 10 Mirzaa
+
+002  P4 13 - 10 Mirzaa
+
+002  P4 13 - 11 Mirzaa
+
+002  P4 14 - 11 Mirzaa
+
+002  P4 14 - 15 Mirzaa
+
+002  P4 15 - 15 Mirzaa
+
+002  P4 15 - 16 Mirzaa
+
+002  P4 15 - 17 Mirzaa
+
+002  P4 16 - 17 Mirzaa
+
+002  P4 16 - 18 Mirzaa
+
+002  P4 17 - 18 Mirzaa
+
+002  P4 17 - 19 Mirzaa
+
+002  P4 18 - 19 Mirzaa
+
+002  P4 18 - 27 Mirzaa
+
+002  P4 19 - 29 Mirzaa
+
+000  Game 1
+
+002  Mirzaa 1 - 0 P4
+
+002  Mirzaa 2 - 0 P4
+
+002  Mirzaa 2 - 1 P4
+
+002  Mirzaa 2 - 2 P4
+
+002  Mirzaa 2 - 2 P4
+
+002  Mirzaa 2 - 3 P4
+
+002  Mirzaa 2 - 3 P4
+
+002  Mirzaa 2 - 4 P4
+
+002  Mirzaa 2 - 4 P4
+
+002  Mirzaa 2 - 5 P4
+
+002  Mirzaa 3 - 5 P4
+
+002  Mirzaa 4 - 5 P4
+
+002  Mirzaa 5 - 5 P4
+
+002  Mirzaa 5 - 7 P4
+
+002  Mirzaa 5 - 7 P4
+
+002  Mirzaa 5 - 8 P4
+
+002  Mirzaa 10 - 8 P4
+
+002  Mirzaa 10 - 9 P4
+
+002  Mirzaa 11 - 9 P4
+
+002  Mirzaa 11 - 10 P4
+
+002  Mirzaa 11 - 11 P4
+
+002  Mirzaa 12 - 11 P4
+
+002  Mirzaa 12 - 12 P4
+
+002  Mirzaa 13 - 12 P4
+
+002  Mirzaa 13 - 13 P4
+
+002  Mirzaa 14 - 13 P4
+
+002  Mirzaa 16 - 13 P4
+
+002  Mirzaa 17 - 13 P4
+
+002  Mirzaa 18 - 13 P4
+
+002  Mirzaa 19 - 13 P4
+
+002  Mirzaa 21 - 13 P4
+
+002  Mirzaa 21 - 14 P4
+
+002  Mirzaa 22 - 14 P4
+
+002  Mirzaa 23 - 14 P4
+
+002  Mirzaa 24 - 14 P4
+
+002  Mirzaa 27 - 14 P4
+
+002  Mirzaa 27 - 15 P4
+
+002  Mirzaa 27 - 16 P4
+
+002  Mirzaa 28 - 20 P4
+
+000  Game 2
+
+002  P4 1 - 0 Mirzaa
+
+002  P4 2 - 0 Mirzaa
+
+002  P4 2 - 1 Mirzaa
+
+002  P4 2 - 2 Mirzaa
+
+002  P4 2 - 2 Mirzaa
+
+002  P4 3 - 2 Mirzaa
+
+002  P4 3 - 2 Mirzaa
+
+002  P4 4 - 2 Mirzaa
+
+002  P4 4 - 3 Mirzaa
+
+002  P4 4 - 4 Mirzaa
+
+002  P4 5 - 4 Mirzaa
+
+002  P4 5 - 9 Mirzaa
+
+002  P4 6 - 9 Mirzaa
+
+002  P4 7 - 9 Mirzaa
+
+002  P4 7 - 9 Mirzaa
+
+002  P4 8 - 9 Mirzaa
+
+002  P4 8 - 10 Mirzaa
+
+002  P4 13 - 10 Mirzaa
+
+002  P4 13 - 11 Mirzaa
+
+002  P4 14 - 11 Mirzaa
+
+002  P4 14 - 15 Mirzaa
+
+002  P4 15 - 15 Mirzaa
+
+002  P4 15 - 16 Mirzaa
+
+002  P4 15 - 17 Mirzaa
+
+002  P4 16 - 17 Mirzaa
+
+002  P4 16 - 18 Mirzaa
+
+002  P4 17 - 18 Mirzaa
+
+002  P4 17 - 19 Mirzaa
+
+002  P4 18 - 19 Mirzaa
+
+002  P4 18 - 27 Mirzaa
+
+002  P4 19 - 29 Mirzaa
+
+000  Game 3
+
+002  Mirzaa 1 - 0 P4
+
+002  Mirzaa 2 - 0 P4
+
+002  Mirzaa 2 - 1 P4
+
+002  Mirzaa 2 - 2 P4
+
+002  Mirzaa 2 - 2 P4
+
+002  Mirzaa 2 - 3 P4
+
+002  Mirzaa 2 - 3 P4
+
+002  Mirzaa 2 - 4 P4
+
+002  Mirzaa 2 - 4 P4
+
+002  Mirzaa 2 - 5 P4
+
+002  Mirzaa 3 - 5 P4
+
+002  Mirzaa 4 - 5 P4
+
+002  Mirzaa 5 - 5 P4
+
+002  Mirzaa 5 - 7 P4
+
+002  Mirzaa 5 - 7 P4
+
+002  Mirzaa 5 - 8 P4
+
+002  Mirzaa 10 - 8 P4
+
+002  Mirzaa 10 - 9 P4
+
+002  Mirzaa 11 - 9 P4
+
+002  Mirzaa 11 - 10 P4
+
+002  Mirzaa 11 - 11 P4
+
+002  Mirzaa 12 - 11 P4
+
+002  Mirzaa 12 - 12 P4
+
+002  Mirzaa 13 - 12 P4
+
+002  Mirzaa 13 - 13 P4
+
+002  Mirzaa 14 - 13 P4
+
+002  Mirzaa 16 - 13 P4
+
+002  Mirzaa 17 - 13 P4
+
+002  Mirzaa 18 - 13 P4
+
+002  Mirzaa 19 - 13 P4
+
+002  Mirzaa 21 - 13 P4
+
+002  Mirzaa 21 - 14 P4
+
+002  Mirzaa 22 - 14 P4
+
+002  Mirzaa 23 - 14 P4
+
+002  Mirzaa 24 - 14 P4
+
+002  Mirzaa 27 - 14 P4
+
+002  Mirzaa 27 - 15 P4
+
+002  Mirzaa 27 - 16 P4
+
+002  Mirzaa 28 - 20 P4
+
+000  Game 4
+
+002  P4 1 - 0 Mirzaa
+
+002  P4 2 - 0 Mirzaa
+
+002  P4 2 - 1 Mirzaa
+
+002  P4 2 - 2 Mirzaa
+
+002  P4 2 - 2 Mirzaa
+
+002  P4 3 - 2 Mirzaa
+
+002  P4 3 - 2 Mirzaa
+
+002  P4 4 - 2 Mirzaa
+
+002  P4 4 - 3 Mirzaa
+
+002  P4 4 - 4 Mirzaa
+
+002  P4 5 - 4 Mirzaa
+
+002  P4 5 - 9 Mirzaa
+
+002  P4 6 - 9 Mirzaa
+
+002  P4 7 - 9 Mirzaa
+
+002  P4 7 - 9 Mirzaa
+
+002  P4 8 - 9 Mirzaa
+
+002  P4 8 - 10 Mirzaa
+
+002  P4 13 - 10 Mirzaa
+
+002  P4 13 - 11 Mirzaa
+
+002  P4 14 - 11 Mirzaa
+
+002  P4 14 - 15 Mirzaa
+
+002  P4 15 - 15 Mirzaa
+
+002  P4 15 - 16 Mirzaa
+
+002  P4 15 - 17 Mirzaa
+
+002  P4 16 - 17 Mirzaa
+
+002  P4 16 - 18 Mirzaa
+
+002  P4 17 - 18 Mirzaa
+
+002  P4 17 - 19 Mirzaa
+
+002  P4 18 - 19 Mirzaa
+
+002  P4 18 - 27 Mirzaa
+
+002  P4 19 - 29 Mirzaa
+
+000  Game 5
+
+002  Mirzaa 1 - 0 P4
+
+002  Mirzaa 2 - 0 P4
+
+002  Mirzaa 2 - 1 P4
+
+002  Mirzaa 2 - 2 P4
+
+002  Mirzaa 2 - 2 P4
+
+002  Mirzaa 2 - 3 P4
+
+002  Mirzaa 2 - 3 P4
+
+002  Mirzaa 2 - 4 P4
+
+002  Mirzaa 2 - 4 P4
+
+002  Mirzaa 2 - 5 P4
+
+002  Mirzaa 3 - 5 P4
+
+002  Mirzaa 4 - 5 P4
+
+002  Mirzaa 5 - 5 P4
+
+002  Mirzaa 5 - 7 P4
+
+002  Mirzaa 5 - 7 P4
+
+002  Mirzaa 5 - 8 P4
+
+002  Mirzaa 10 - 8 P4
+
+002  Mirzaa 10 - 9 P4
+
+002  Mirzaa 11 - 9 P4
+
+002  Mirzaa 11 - 10 P4
+
+002  Mirzaa 11 - 11 P4
+
+002  Mirzaa 12 - 11 P4
+
+002  Mirzaa 12 - 12 P4
+
+002  Mirzaa 13 - 12 P4
+
+002  Mirzaa 13 - 13 P4
+
+002  Mirzaa 14 - 13 P4
+
+002  Mirzaa 16 - 13 P4
+
+002  Mirzaa 17 - 13 P4
+
+002  Mirzaa 18 - 13 P4
+
+002  Mirzaa 19 - 13 P4
+
+002  Mirzaa 21 - 13 P4
+
+002  Mirzaa 21 - 14 P4
+
+002  Mirzaa 22 - 14 P4
+
+002  Mirzaa 23 - 14 P4
+
+002  Mirzaa 24 - 14 P4
+
+002  Mirzaa 27 - 14 P4
+
+002  Mirzaa 27 - 15 P4
+
+002  Mirzaa 27 - 16 P4
+
+002  Mirzaa 28 - 20 P4
+
+000  Game 6
+
+002  P4 1 - 0 Mirzaa
+
+002  P4 2 - 0 Mirzaa
+
+002  P4 2 - 1 Mirzaa
+
+002  P4 2 - 2 Mirzaa
+
+002  P4 2 - 2 Mirzaa
+
+002  P4 3 - 2 Mirzaa
+
+002  P4 3 - 2 Mirzaa
+
+002  P4 4 - 2 Mirzaa
+
+002  P4 4 - 3 Mirzaa
+
+002  P4 4 - 4 Mirzaa
+
+002  P4 5 - 4 Mirzaa
+
+002  P4 5 - 9 Mirzaa
+
+002  P4 6 - 9 Mirzaa
+
+002  P4 7 - 9 Mirzaa
+
+002  P4 7 - 9 Mirzaa
+
+002  P4 8 - 9 Mirzaa
+
+002  P4 8 - 10 Mirzaa
+
+002  P4 13 - 10 Mirzaa
+
+002  P4 13 - 11 Mirzaa
+
+002  P4 14 - 11 Mirzaa
+
+002  P4 14 - 15 Mirzaa
+
+002  P4 15 - 15 Mirzaa
+
+002  P4 15 - 16 Mirzaa
+
+002  P4 15 - 17 Mirzaa
+
+002  P4 16 - 17 Mirzaa
+
+002  P4 16 - 18 Mirzaa
+
+002  P4 17 - 18 Mirzaa
+
+002  P4 17 - 19 Mirzaa
+
+002  P4 18 - 19 Mirzaa
+
+002  P4 18 - 27 Mirzaa
+
+002  P4 19 - 29 Mirzaa
+
+000  Game 7
+
+002  Mirzaa 1 - 0 P4
+
+002  Mirzaa 2 - 0 P4
+
+002  Mirzaa 2 - 1 P4
+
+002  Mirzaa 2 - 2 P4
+
+002  Mirzaa 2 - 2 P4
+
+002  Mirzaa 2 - 3 P4
+
+002  Mirzaa 2 - 3 P4
+
+002  Mirzaa 2 - 4 P4
+
+002  Mirzaa 2 - 4 P4
+
+002  Mirzaa 2 - 5 P4
+
+002  Mirzaa 3 - 5 P4
+
+002  Mirzaa 4 - 5 P4
+
+002  Mirzaa 5 - 5 P4
+
+002  Mirzaa 5 - 7 P4
+
+002  Mirzaa 5 - 7 P4
+
+002  Mirzaa 5 - 8 P4
+
+002  Mirzaa 10 - 8 P4
+
+002  Mirzaa 10 - 9 P4
+
+002  Mirzaa 11 - 9 P4
+
+002  Mirzaa 11 - 10 P4
+
+002  Mirzaa 11 - 11 P4
+
+002  Mirzaa 12 - 11 P4
+
+002  Mirzaa 12 - 12 P4
+
+002  Mirzaa 13 - 12 P4
+
+002  Mirzaa 13 - 13 P4
+
+002  Mirzaa 14 - 13 P4
+
+002  Mirzaa 16 - 13 P4
+
+002  Mirzaa 17 - 13 P4
+
+002  Mirzaa 18 - 13 P4
+
+002  Mirzaa 19 - 13 P4
+
+002  Mirzaa 21 - 13 P4
+
+002  Mirzaa 21 - 14 P4
+
+002  Mirzaa 22 - 14 P4
+
+002  Mirzaa 23 - 14 P4
+
+002  Mirzaa 24 - 14 P4
+
+002  Mirzaa 27 - 14 P4
+
+002  Mirzaa 27 - 15 P4
+
+002  Mirzaa 27 - 16 P4
+
+002  Mirzaa 28 - 20 P4
+
+000  Game 8
+
+002  P4 1 - 0 Mirzaa
+
+002  P4 2 - 0 Mirzaa
+
+002  P4 2 - 1 Mirzaa
+
+002  P4 2 - 2 Mirzaa
+
+002  P4 2 - 2 Mirzaa
+
+002  P4 3 - 2 Mirzaa
+
+002  P4 3 - 2 Mirzaa
+
+002  P4 4 - 2 Mirzaa
+
+002  P4 4 - 3 Mirzaa
+
+002  P4 4 - 4 Mirzaa
+
+002  P4 5 - 4 Mirzaa
+
+002  P4 5 - 9 Mirzaa
+
+002  P4 6 - 9 Mirzaa
+
+002  P4 7 - 9 Mirzaa
+
+002  P4 7 - 9 Mirzaa
+
+002  P4 8 - 9 Mirzaa
+
+002  P4 8 - 10 Mirzaa
+
+002  P4 13 - 10 Mirzaa
+
+002  P4 13 - 11 Mirzaa
+
+002  P4 14 - 11 Mirzaa
+
+002  P4 14 - 15 Mirzaa
+
+002  P4 15 - 15 Mirzaa
+
+002  P4 15 - 16 Mirzaa
+
+002  P4 15 - 17 Mirzaa
+
+002  P4 16 - 17 Mirzaa
+
+002  P4 16 - 18 Mirzaa
+
+002  P4 17 - 18 Mirzaa
+
+002  P4 17 - 19 Mirzaa
+
+002  P4 18 - 19 Mirzaa
+
+002  P4 18 - 27 Mirzaa
+
+002  P4 19 - 29 Mirzaa
+
+000  Game 9
+
+002  Mirzaa 1 - 0 P4
+
+002  Mirzaa 2 - 0 P4
+
+002  Mirzaa 2 - 1 P4
+
+002  Mirzaa 2 - 2 P4
+
+002  Mirzaa 2 - 2 P4
+
+002  Mirzaa 2 - 3 P4
+
+002  Mirzaa 2 - 3 P4
+
+002  Mirzaa 2 - 4 P4
+
+002  Mirzaa 2 - 4 P4
+
+002  Mirzaa 2 - 5 P4
+
+002  Mirzaa 3 - 5 P4
+
+002  Mirzaa 4 - 5 P4
+
+002  Mirzaa 5 - 5 P4
+
+002  Mirzaa 5 - 7 P4
+
+002  Mirzaa 5 - 7 P4
+
+002  Mirzaa 5 - 8 P4
+
+002  Mirzaa 10 - 8 P4
+
+002  Mirzaa 10 - 9 P4
+
+002  Mirzaa 11 - 9 P4
+
+002  Mirzaa 11 - 10 P4
+
+002  Mirzaa 11 - 11 P4
+
+002  Mirzaa 12 - 11 P4
+
+002  Mirzaa 12 - 12 P4
+
+002  Mirzaa 13 - 12 P4
+
+002  Mirzaa 13 - 13 P4
+
+002  Mirzaa 14 - 13 P4
+
+002  Mirzaa 16 - 13 P4
+
+002  Mirzaa 17 - 13 P4
+
+002  Mirzaa 18 - 13 P4
+
+002  Mirzaa 19 - 13 P4
+
+002  Mirzaa 21 - 13 P4
+
+002  Mirzaa 21 - 14 P4
+
+002  Mirzaa 22 - 14 P4
+
+002  Mirzaa 23 - 14 P4
+
+002  Mirzaa 24 - 14 P4
+
+002  Mirzaa 27 - 14 P4
+
+002  Mirzaa 27 - 15 P4
+
+002  Mirzaa 27 - 16 P4
+
+002  Mirzaa 28 - 20 P4
+
+P4 won 0 games. Mirzaa won 10 games. There were 0 draws.
+

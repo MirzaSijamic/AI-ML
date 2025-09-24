@@ -1,0 +1,642 @@
+000  Game 0
+
+002  P5 1 - 0 Mirza
+
+002  P5 2 - 0 Mirza
+
+002  P5 2 - 1 Mirza
+
+002  P5 2 - 2 Mirza
+
+002  P5 2 - 2 Mirza
+
+002  P5 3 - 2 Mirza
+
+002  P5 3 - 2 Mirza
+
+002  P5 4 - 2 Mirza
+
+002  P5 4 - 3 Mirza
+
+002  P5 4 - 4 Mirza
+
+002  P5 5 - 4 Mirza
+
+002  P5 5 - 4 Mirza
+
+002  P5 6 - 4 Mirza
+
+002  P5 6 - 4 Mirza
+
+002  P5 7 - 4 Mirza
+
+002  P5 8 - 4 Mirza
+
+002  P5 8 - 4 Mirza
+
+002  P5 8 - 4 Mirza
+
+002  P5 8 - 4 Mirza
+
+002  P5 9 - 4 Mirza
+
+002  P5 9 - 7 Mirza
+
+002  P5 10 - 7 Mirza
+
+002  P5 11 - 7 Mirza
+
+002  P5 11 - 8 Mirza
+
+002  P5 11 - 11 Mirza
+
+002  P5 12 - 11 Mirza
+
+002  P5 12 - 12 Mirza
+
+002  P5 12 - 14 Mirza
+
+002  P5 13 - 35 Mirza
+
+000  Game 1
+
+002  Mirza 1 - 0 P5
+
+002  Mirza 2 - 0 P5
+
+002  Mirza 2 - 1 P5
+
+002  Mirza 2 - 2 P5
+
+002  Mirza 2 - 2 P5
+
+002  Mirza 2 - 3 P5
+
+002  Mirza 2 - 3 P5
+
+002  Mirza 2 - 4 P5
+
+002  Mirza 2 - 4 P5
+
+002  Mirza 2 - 5 P5
+
+002  Mirza 3 - 5 P5
+
+002  Mirza 4 - 5 P5
+
+002  Mirza 5 - 5 P5
+
+002  Mirza 5 - 7 P5
+
+002  Mirza 5 - 7 P5
+
+002  Mirza 5 - 7 P5
+
+002  Mirza 8 - 7 P5
+
+002  Mirza 8 - 8 P5
+
+002  Mirza 11 - 8 P5
+
+002  Mirza 11 - 9 P5
+
+002  Mirza 11 - 10 P5
+
+002  Mirza 14 - 10 P5
+
+002  Mirza 14 - 11 P5
+
+002  Mirza 14 - 14 P5
+
+002  Mirza 15 - 14 P5
+
+002  Mirza 15 - 15 P5
+
+002  Mirza 15 - 16 P5
+
+002  Mirza 16 - 16 P5
+
+002  Mirza 17 - 16 P5
+
+002  Mirza 18 - 16 P5
+
+002  Mirza 18 - 17 P5
+
+002  Mirza 19 - 17 P5
+
+002  Mirza 30 - 18 P5
+
+000  Game 2
+
+002  P5 1 - 0 Mirza
+
+002  P5 2 - 0 Mirza
+
+002  P5 2 - 1 Mirza
+
+002  P5 2 - 2 Mirza
+
+002  P5 2 - 2 Mirza
+
+002  P5 3 - 2 Mirza
+
+002  P5 3 - 2 Mirza
+
+002  P5 4 - 2 Mirza
+
+002  P5 4 - 3 Mirza
+
+002  P5 4 - 4 Mirza
+
+002  P5 5 - 4 Mirza
+
+002  P5 5 - 4 Mirza
+
+002  P5 6 - 4 Mirza
+
+002  P5 6 - 4 Mirza
+
+002  P5 7 - 4 Mirza
+
+002  P5 8 - 4 Mirza
+
+002  P5 8 - 4 Mirza
+
+002  P5 8 - 4 Mirza
+
+002  P5 8 - 4 Mirza
+
+002  P5 9 - 4 Mirza
+
+002  P5 9 - 7 Mirza
+
+002  P5 10 - 7 Mirza
+
+002  P5 11 - 7 Mirza
+
+002  P5 11 - 8 Mirza
+
+002  P5 11 - 11 Mirza
+
+002  P5 12 - 11 Mirza
+
+002  P5 12 - 12 Mirza
+
+002  P5 12 - 14 Mirza
+
+002  P5 13 - 35 Mirza
+
+000  Game 3
+
+002  Mirza 1 - 0 P5
+
+002  Mirza 2 - 0 P5
+
+002  Mirza 2 - 1 P5
+
+002  Mirza 2 - 2 P5
+
+002  Mirza 2 - 2 P5
+
+002  Mirza 2 - 3 P5
+
+002  Mirza 2 - 3 P5
+
+002  Mirza 2 - 4 P5
+
+002  Mirza 2 - 4 P5
+
+002  Mirza 2 - 5 P5
+
+002  Mirza 3 - 5 P5
+
+002  Mirza 4 - 5 P5
+
+002  Mirza 5 - 5 P5
+
+002  Mirza 5 - 7 P5
+
+002  Mirza 5 - 7 P5
+
+002  Mirza 5 - 7 P5
+
+002  Mirza 8 - 7 P5
+
+002  Mirza 8 - 8 P5
+
+002  Mirza 11 - 8 P5
+
+002  Mirza 11 - 9 P5
+
+002  Mirza 11 - 10 P5
+
+002  Mirza 14 - 10 P5
+
+002  Mirza 14 - 11 P5
+
+002  Mirza 14 - 14 P5
+
+002  Mirza 15 - 14 P5
+
+002  Mirza 15 - 15 P5
+
+002  Mirza 15 - 16 P5
+
+002  Mirza 16 - 16 P5
+
+002  Mirza 17 - 16 P5
+
+002  Mirza 18 - 16 P5
+
+002  Mirza 18 - 17 P5
+
+002  Mirza 19 - 17 P5
+
+002  Mirza 30 - 18 P5
+
+000  Game 4
+
+002  P5 1 - 0 Mirza
+
+002  P5 2 - 0 Mirza
+
+002  P5 2 - 1 Mirza
+
+002  P5 2 - 2 Mirza
+
+002  P5 2 - 2 Mirza
+
+002  P5 3 - 2 Mirza
+
+002  P5 3 - 2 Mirza
+
+002  P5 4 - 2 Mirza
+
+002  P5 4 - 3 Mirza
+
+002  P5 4 - 4 Mirza
+
+002  P5 5 - 4 Mirza
+
+002  P5 5 - 4 Mirza
+
+002  P5 6 - 4 Mirza
+
+002  P5 6 - 4 Mirza
+
+002  P5 7 - 4 Mirza
+
+002  P5 8 - 4 Mirza
+
+002  P5 8 - 4 Mirza
+
+002  P5 8 - 4 Mirza
+
+002  P5 8 - 4 Mirza
+
+002  P5 9 - 4 Mirza
+
+002  P5 9 - 7 Mirza
+
+002  P5 10 - 7 Mirza
+
+002  P5 11 - 7 Mirza
+
+002  P5 11 - 8 Mirza
+
+002  P5 11 - 11 Mirza
+
+002  P5 12 - 11 Mirza
+
+002  P5 12 - 12 Mirza
+
+002  P5 12 - 14 Mirza
+
+002  P5 13 - 35 Mirza
+
+000  Game 5
+
+002  Mirza 1 - 0 P5
+
+002  Mirza 2 - 0 P5
+
+002  Mirza 2 - 1 P5
+
+002  Mirza 2 - 2 P5
+
+002  Mirza 2 - 2 P5
+
+002  Mirza 2 - 3 P5
+
+002  Mirza 2 - 3 P5
+
+002  Mirza 2 - 4 P5
+
+002  Mirza 2 - 4 P5
+
+002  Mirza 2 - 5 P5
+
+002  Mirza 3 - 5 P5
+
+002  Mirza 4 - 5 P5
+
+002  Mirza 5 - 5 P5
+
+002  Mirza 5 - 7 P5
+
+002  Mirza 5 - 7 P5
+
+002  Mirza 5 - 7 P5
+
+002  Mirza 8 - 7 P5
+
+002  Mirza 8 - 8 P5
+
+002  Mirza 11 - 8 P5
+
+002  Mirza 11 - 9 P5
+
+002  Mirza 11 - 10 P5
+
+002  Mirza 14 - 10 P5
+
+002  Mirza 14 - 11 P5
+
+002  Mirza 14 - 14 P5
+
+002  Mirza 15 - 14 P5
+
+002  Mirza 15 - 15 P5
+
+002  Mirza 15 - 16 P5
+
+002  Mirza 16 - 16 P5
+
+002  Mirza 17 - 16 P5
+
+002  Mirza 18 - 16 P5
+
+002  Mirza 18 - 17 P5
+
+002  Mirza 19 - 17 P5
+
+002  Mirza 30 - 18 P5
+
+000  Game 6
+
+002  P5 1 - 0 Mirza
+
+002  P5 2 - 0 Mirza
+
+002  P5 2 - 1 Mirza
+
+002  P5 2 - 2 Mirza
+
+002  P5 2 - 2 Mirza
+
+002  P5 3 - 2 Mirza
+
+002  P5 3 - 2 Mirza
+
+002  P5 4 - 2 Mirza
+
+002  P5 4 - 3 Mirza
+
+002  P5 4 - 4 Mirza
+
+002  P5 5 - 4 Mirza
+
+002  P5 5 - 4 Mirza
+
+002  P5 6 - 4 Mirza
+
+002  P5 6 - 4 Mirza
+
+002  P5 7 - 4 Mirza
+
+002  P5 8 - 4 Mirza
+
+002  P5 8 - 4 Mirza
+
+002  P5 8 - 4 Mirza
+
+002  P5 8 - 4 Mirza
+
+002  P5 9 - 4 Mirza
+
+002  P5 9 - 7 Mirza
+
+002  P5 10 - 7 Mirza
+
+002  P5 11 - 7 Mirza
+
+002  P5 11 - 8 Mirza
+
+002  P5 11 - 11 Mirza
+
+002  P5 12 - 11 Mirza
+
+002  P5 12 - 12 Mirza
+
+002  P5 12 - 14 Mirza
+
+002  P5 13 - 35 Mirza
+
+000  Game 7
+
+002  Mirza 1 - 0 P5
+
+002  Mirza 2 - 0 P5
+
+002  Mirza 2 - 1 P5
+
+002  Mirza 2 - 2 P5
+
+002  Mirza 2 - 2 P5
+
+002  Mirza 2 - 3 P5
+
+002  Mirza 2 - 3 P5
+
+002  Mirza 2 - 4 P5
+
+002  Mirza 2 - 4 P5
+
+002  Mirza 2 - 5 P5
+
+002  Mirza 3 - 5 P5
+
+002  Mirza 4 - 5 P5
+
+002  Mirza 5 - 5 P5
+
+002  Mirza 5 - 7 P5
+
+002  Mirza 5 - 7 P5
+
+002  Mirza 5 - 7 P5
+
+002  Mirza 8 - 7 P5
+
+002  Mirza 8 - 8 P5
+
+002  Mirza 11 - 8 P5
+
+002  Mirza 11 - 9 P5
+
+002  Mirza 11 - 10 P5
+
+002  Mirza 14 - 10 P5
+
+002  Mirza 14 - 11 P5
+
+002  Mirza 14 - 14 P5
+
+002  Mirza 15 - 14 P5
+
+002  Mirza 15 - 15 P5
+
+002  Mirza 15 - 16 P5
+
+002  Mirza 16 - 16 P5
+
+002  Mirza 17 - 16 P5
+
+002  Mirza 18 - 16 P5
+
+002  Mirza 18 - 17 P5
+
+002  Mirza 19 - 17 P5
+
+002  Mirza 30 - 18 P5
+
+000  Game 8
+
+002  P5 1 - 0 Mirza
+
+002  P5 2 - 0 Mirza
+
+002  P5 2 - 1 Mirza
+
+002  P5 2 - 2 Mirza
+
+002  P5 2 - 2 Mirza
+
+002  P5 3 - 2 Mirza
+
+002  P5 3 - 2 Mirza
+
+002  P5 4 - 2 Mirza
+
+002  P5 4 - 3 Mirza
+
+002  P5 4 - 4 Mirza
+
+002  P5 5 - 4 Mirza
+
+002  P5 5 - 4 Mirza
+
+002  P5 6 - 4 Mirza
+
+002  P5 6 - 4 Mirza
+
+002  P5 7 - 4 Mirza
+
+002  P5 8 - 4 Mirza
+
+002  P5 8 - 4 Mirza
+
+002  P5 8 - 4 Mirza
+
+002  P5 8 - 4 Mirza
+
+002  P5 9 - 4 Mirza
+
+002  P5 9 - 7 Mirza
+
+002  P5 10 - 7 Mirza
+
+002  P5 11 - 7 Mirza
+
+002  P5 11 - 8 Mirza
+
+002  P5 11 - 11 Mirza
+
+002  P5 12 - 11 Mirza
+
+002  P5 12 - 12 Mirza
+
+002  P5 12 - 14 Mirza
+
+002  P5 13 - 35 Mirza
+
+000  Game 9
+
+002  Mirza 1 - 0 P5
+
+002  Mirza 2 - 0 P5
+
+002  Mirza 2 - 1 P5
+
+002  Mirza 2 - 2 P5
+
+002  Mirza 2 - 2 P5
+
+002  Mirza 2 - 3 P5
+
+002  Mirza 2 - 3 P5
+
+002  Mirza 2 - 4 P5
+
+002  Mirza 2 - 4 P5
+
+002  Mirza 2 - 5 P5
+
+002  Mirza 3 - 5 P5
+
+002  Mirza 4 - 5 P5
+
+002  Mirza 5 - 5 P5
+
+002  Mirza 5 - 7 P5
+
+002  Mirza 5 - 7 P5
+
+002  Mirza 5 - 7 P5
+
+002  Mirza 8 - 7 P5
+
+002  Mirza 8 - 8 P5
+
+002  Mirza 11 - 8 P5
+
+002  Mirza 11 - 9 P5
+
+002  Mirza 11 - 10 P5
+
+002  Mirza 14 - 10 P5
+
+002  Mirza 14 - 11 P5
+
+002  Mirza 14 - 14 P5
+
+002  Mirza 15 - 14 P5
+
+002  Mirza 15 - 15 P5
+
+002  Mirza 15 - 16 P5
+
+002  Mirza 16 - 16 P5
+
+002  Mirza 17 - 16 P5
+
+002  Mirza 18 - 16 P5
+
+002  Mirza 18 - 17 P5
+
+002  Mirza 19 - 17 P5
+
+002  Mirza 30 - 18 P5
+
+P5 won 0 games. Mirza won 10 games. There were 0 draws.
+

@@ -1,0 +1,642 @@
+000  Game 0
+
+002  P5 1 - 0 Mirzaa
+
+002  P5 2 - 0 Mirzaa
+
+002  P5 2 - 1 Mirzaa
+
+002  P5 2 - 2 Mirzaa
+
+002  P5 2 - 2 Mirzaa
+
+002  P5 3 - 2 Mirzaa
+
+002  P5 3 - 2 Mirzaa
+
+002  P5 4 - 2 Mirzaa
+
+002  P5 4 - 3 Mirzaa
+
+002  P5 4 - 4 Mirzaa
+
+002  P5 5 - 4 Mirzaa
+
+002  P5 5 - 4 Mirzaa
+
+002  P5 6 - 4 Mirzaa
+
+002  P5 6 - 4 Mirzaa
+
+002  P5 7 - 4 Mirzaa
+
+002  P5 8 - 4 Mirzaa
+
+002  P5 8 - 4 Mirzaa
+
+002  P5 8 - 4 Mirzaa
+
+002  P5 8 - 4 Mirzaa
+
+002  P5 9 - 4 Mirzaa
+
+002  P5 9 - 7 Mirzaa
+
+002  P5 10 - 7 Mirzaa
+
+002  P5 11 - 7 Mirzaa
+
+002  P5 11 - 8 Mirzaa
+
+002  P5 11 - 11 Mirzaa
+
+002  P5 12 - 11 Mirzaa
+
+002  P5 12 - 12 Mirzaa
+
+002  P5 12 - 14 Mirzaa
+
+002  P5 13 - 35 Mirzaa
+
+000  Game 1
+
+002  Mirzaa 1 - 0 P5
+
+002  Mirzaa 2 - 0 P5
+
+002  Mirzaa 2 - 1 P5
+
+002  Mirzaa 2 - 2 P5
+
+002  Mirzaa 2 - 2 P5
+
+002  Mirzaa 2 - 3 P5
+
+002  Mirzaa 2 - 3 P5
+
+002  Mirzaa 2 - 4 P5
+
+002  Mirzaa 2 - 4 P5
+
+002  Mirzaa 2 - 5 P5
+
+002  Mirzaa 3 - 5 P5
+
+002  Mirzaa 4 - 5 P5
+
+002  Mirzaa 5 - 5 P5
+
+002  Mirzaa 5 - 7 P5
+
+002  Mirzaa 5 - 7 P5
+
+002  Mirzaa 5 - 7 P5
+
+002  Mirzaa 8 - 7 P5
+
+002  Mirzaa 8 - 8 P5
+
+002  Mirzaa 11 - 8 P5
+
+002  Mirzaa 11 - 9 P5
+
+002  Mirzaa 11 - 10 P5
+
+002  Mirzaa 14 - 10 P5
+
+002  Mirzaa 14 - 11 P5
+
+002  Mirzaa 14 - 14 P5
+
+002  Mirzaa 15 - 14 P5
+
+002  Mirzaa 15 - 15 P5
+
+002  Mirzaa 15 - 16 P5
+
+002  Mirzaa 16 - 16 P5
+
+002  Mirzaa 17 - 16 P5
+
+002  Mirzaa 18 - 16 P5
+
+002  Mirzaa 18 - 17 P5
+
+002  Mirzaa 19 - 17 P5
+
+002  Mirzaa 30 - 18 P5
+
+000  Game 2
+
+002  P5 1 - 0 Mirzaa
+
+002  P5 2 - 0 Mirzaa
+
+002  P5 2 - 1 Mirzaa
+
+002  P5 2 - 2 Mirzaa
+
+002  P5 2 - 2 Mirzaa
+
+002  P5 3 - 2 Mirzaa
+
+002  P5 3 - 2 Mirzaa
+
+002  P5 4 - 2 Mirzaa
+
+002  P5 4 - 3 Mirzaa
+
+002  P5 4 - 4 Mirzaa
+
+002  P5 5 - 4 Mirzaa
+
+002  P5 5 - 4 Mirzaa
+
+002  P5 6 - 4 Mirzaa
+
+002  P5 6 - 4 Mirzaa
+
+002  P5 7 - 4 Mirzaa
+
+002  P5 8 - 4 Mirzaa
+
+002  P5 8 - 4 Mirzaa
+
+002  P5 8 - 4 Mirzaa
+
+002  P5 8 - 4 Mirzaa
+
+002  P5 9 - 4 Mirzaa
+
+002  P5 9 - 7 Mirzaa
+
+002  P5 10 - 7 Mirzaa
+
+002  P5 11 - 7 Mirzaa
+
+002  P5 11 - 8 Mirzaa
+
+002  P5 11 - 11 Mirzaa
+
+002  P5 12 - 11 Mirzaa
+
+002  P5 12 - 12 Mirzaa
+
+002  P5 12 - 14 Mirzaa
+
+002  P5 13 - 35 Mirzaa
+
+000  Game 3
+
+002  Mirzaa 1 - 0 P5
+
+002  Mirzaa 2 - 0 P5
+
+002  Mirzaa 2 - 1 P5
+
+002  Mirzaa 2 - 2 P5
+
+002  Mirzaa 2 - 2 P5
+
+002  Mirzaa 2 - 3 P5
+
+002  Mirzaa 2 - 3 P5
+
+002  Mirzaa 2 - 4 P5
+
+002  Mirzaa 2 - 4 P5
+
+002  Mirzaa 2 - 5 P5
+
+002  Mirzaa 3 - 5 P5
+
+002  Mirzaa 4 - 5 P5
+
+002  Mirzaa 5 - 5 P5
+
+002  Mirzaa 5 - 7 P5
+
+002  Mirzaa 5 - 7 P5
+
+002  Mirzaa 5 - 7 P5
+
+002  Mirzaa 8 - 7 P5
+
+002  Mirzaa 8 - 8 P5
+
+002  Mirzaa 11 - 8 P5
+
+002  Mirzaa 11 - 9 P5
+
+002  Mirzaa 11 - 10 P5
+
+002  Mirzaa 14 - 10 P5
+
+002  Mirzaa 14 - 11 P5
+
+002  Mirzaa 14 - 14 P5
+
+002  Mirzaa 15 - 14 P5
+
+002  Mirzaa 15 - 15 P5
+
+002  Mirzaa 15 - 16 P5
+
+002  Mirzaa 16 - 16 P5
+
+002  Mirzaa 17 - 16 P5
+
+002  Mirzaa 18 - 16 P5
+
+002  Mirzaa 18 - 17 P5
+
+002  Mirzaa 19 - 17 P5
+
+002  Mirzaa 30 - 18 P5
+
+000  Game 4
+
+002  P5 1 - 0 Mirzaa
+
+002  P5 2 - 0 Mirzaa
+
+002  P5 2 - 1 Mirzaa
+
+002  P5 2 - 2 Mirzaa
+
+002  P5 2 - 2 Mirzaa
+
+002  P5 3 - 2 Mirzaa
+
+002  P5 3 - 2 Mirzaa
+
+002  P5 4 - 2 Mirzaa
+
+002  P5 4 - 3 Mirzaa
+
+002  P5 4 - 4 Mirzaa
+
+002  P5 5 - 4 Mirzaa
+
+002  P5 5 - 4 Mirzaa
+
+002  P5 6 - 4 Mirzaa
+
+002  P5 6 - 4 Mirzaa
+
+002  P5 7 - 4 Mirzaa
+
+002  P5 8 - 4 Mirzaa
+
+002  P5 8 - 4 Mirzaa
+
+002  P5 8 - 4 Mirzaa
+
+002  P5 8 - 4 Mirzaa
+
+002  P5 9 - 4 Mirzaa
+
+002  P5 9 - 7 Mirzaa
+
+002  P5 10 - 7 Mirzaa
+
+002  P5 11 - 7 Mirzaa
+
+002  P5 11 - 8 Mirzaa
+
+002  P5 11 - 11 Mirzaa
+
+002  P5 12 - 11 Mirzaa
+
+002  P5 12 - 12 Mirzaa
+
+002  P5 12 - 14 Mirzaa
+
+002  P5 13 - 35 Mirzaa
+
+000  Game 5
+
+002  Mirzaa 1 - 0 P5
+
+002  Mirzaa 2 - 0 P5
+
+002  Mirzaa 2 - 1 P5
+
+002  Mirzaa 2 - 2 P5
+
+002  Mirzaa 2 - 2 P5
+
+002  Mirzaa 2 - 3 P5
+
+002  Mirzaa 2 - 3 P5
+
+002  Mirzaa 2 - 4 P5
+
+002  Mirzaa 2 - 4 P5
+
+002  Mirzaa 2 - 5 P5
+
+002  Mirzaa 3 - 5 P5
+
+002  Mirzaa 4 - 5 P5
+
+002  Mirzaa 5 - 5 P5
+
+002  Mirzaa 5 - 7 P5
+
+002  Mirzaa 5 - 7 P5
+
+002  Mirzaa 5 - 7 P5
+
+002  Mirzaa 8 - 7 P5
+
+002  Mirzaa 8 - 8 P5
+
+002  Mirzaa 11 - 8 P5
+
+002  Mirzaa 11 - 9 P5
+
+002  Mirzaa 11 - 10 P5
+
+002  Mirzaa 14 - 10 P5
+
+002  Mirzaa 14 - 11 P5
+
+002  Mirzaa 14 - 14 P5
+
+002  Mirzaa 15 - 14 P5
+
+002  Mirzaa 15 - 15 P5
+
+002  Mirzaa 15 - 16 P5
+
+002  Mirzaa 16 - 16 P5
+
+002  Mirzaa 17 - 16 P5
+
+002  Mirzaa 18 - 16 P5
+
+002  Mirzaa 18 - 17 P5
+
+002  Mirzaa 19 - 17 P5
+
+002  Mirzaa 30 - 18 P5
+
+000  Game 6
+
+002  P5 1 - 0 Mirzaa
+
+002  P5 2 - 0 Mirzaa
+
+002  P5 2 - 1 Mirzaa
+
+002  P5 2 - 2 Mirzaa
+
+002  P5 2 - 2 Mirzaa
+
+002  P5 3 - 2 Mirzaa
+
+002  P5 3 - 2 Mirzaa
+
+002  P5 4 - 2 Mirzaa
+
+002  P5 4 - 3 Mirzaa
+
+002  P5 4 - 4 Mirzaa
+
+002  P5 5 - 4 Mirzaa
+
+002  P5 5 - 4 Mirzaa
+
+002  P5 6 - 4 Mirzaa
+
+002  P5 6 - 4 Mirzaa
+
+002  P5 7 - 4 Mirzaa
+
+002  P5 8 - 4 Mirzaa
+
+002  P5 8 - 4 Mirzaa
+
+002  P5 8 - 4 Mirzaa
+
+002  P5 8 - 4 Mirzaa
+
+002  P5 9 - 4 Mirzaa
+
+002  P5 9 - 7 Mirzaa
+
+002  P5 10 - 7 Mirzaa
+
+002  P5 11 - 7 Mirzaa
+
+002  P5 11 - 8 Mirzaa
+
+002  P5 11 - 11 Mirzaa
+
+002  P5 12 - 11 Mirzaa
+
+002  P5 12 - 12 Mirzaa
+
+002  P5 12 - 14 Mirzaa
+
+002  P5 13 - 35 Mirzaa
+
+000  Game 7
+
+002  Mirzaa 1 - 0 P5
+
+002  Mirzaa 2 - 0 P5
+
+002  Mirzaa 2 - 1 P5
+
+002  Mirzaa 2 - 2 P5
+
+002  Mirzaa 2 - 2 P5
+
+002  Mirzaa 2 - 3 P5
+
+002  Mirzaa 2 - 3 P5
+
+002  Mirzaa 2 - 4 P5
+
+002  Mirzaa 2 - 4 P5
+
+002  Mirzaa 2 - 5 P5
+
+002  Mirzaa 3 - 5 P5
+
+002  Mirzaa 4 - 5 P5
+
+002  Mirzaa 5 - 5 P5
+
+002  Mirzaa 5 - 7 P5
+
+002  Mirzaa 5 - 7 P5
+
+002  Mirzaa 5 - 7 P5
+
+002  Mirzaa 8 - 7 P5
+
+002  Mirzaa 8 - 8 P5
+
+002  Mirzaa 11 - 8 P5
+
+002  Mirzaa 11 - 9 P5
+
+002  Mirzaa 11 - 10 P5
+
+002  Mirzaa 14 - 10 P5
+
+002  Mirzaa 14 - 11 P5
+
+002  Mirzaa 14 - 14 P5
+
+002  Mirzaa 15 - 14 P5
+
+002  Mirzaa 15 - 15 P5
+
+002  Mirzaa 15 - 16 P5
+
+002  Mirzaa 16 - 16 P5
+
+002  Mirzaa 17 - 16 P5
+
+002  Mirzaa 18 - 16 P5
+
+002  Mirzaa 18 - 17 P5
+
+002  Mirzaa 19 - 17 P5
+
+002  Mirzaa 30 - 18 P5
+
+000  Game 8
+
+002  P5 1 - 0 Mirzaa
+
+002  P5 2 - 0 Mirzaa
+
+002  P5 2 - 1 Mirzaa
+
+002  P5 2 - 2 Mirzaa
+
+002  P5 2 - 2 Mirzaa
+
+002  P5 3 - 2 Mirzaa
+
+002  P5 3 - 2 Mirzaa
+
+002  P5 4 - 2 Mirzaa
+
+002  P5 4 - 3 Mirzaa
+
+002  P5 4 - 4 Mirzaa
+
+002  P5 5 - 4 Mirzaa
+
+002  P5 5 - 4 Mirzaa
+
+002  P5 6 - 4 Mirzaa
+
+002  P5 6 - 4 Mirzaa
+
+002  P5 7 - 4 Mirzaa
+
+002  P5 8 - 4 Mirzaa
+
+002  P5 8 - 4 Mirzaa
+
+002  P5 8 - 4 Mirzaa
+
+002  P5 8 - 4 Mirzaa
+
+002  P5 9 - 4 Mirzaa
+
+002  P5 9 - 7 Mirzaa
+
+002  P5 10 - 7 Mirzaa
+
+002  P5 11 - 7 Mirzaa
+
+002  P5 11 - 8 Mirzaa
+
+002  P5 11 - 11 Mirzaa
+
+002  P5 12 - 11 Mirzaa
+
+002  P5 12 - 12 Mirzaa
+
+002  P5 12 - 14 Mirzaa
+
+002  P5 13 - 35 Mirzaa
+
+000  Game 9
+
+002  Mirzaa 1 - 0 P5
+
+002  Mirzaa 2 - 0 P5
+
+002  Mirzaa 2 - 1 P5
+
+002  Mirzaa 2 - 2 P5
+
+002  Mirzaa 2 - 2 P5
+
+002  Mirzaa 2 - 3 P5
+
+002  Mirzaa 2 - 3 P5
+
+002  Mirzaa 2 - 4 P5
+
+002  Mirzaa 2 - 4 P5
+
+002  Mirzaa 2 - 5 P5
+
+002  Mirzaa 3 - 5 P5
+
+002  Mirzaa 4 - 5 P5
+
+002  Mirzaa 5 - 5 P5
+
+002  Mirzaa 5 - 7 P5
+
+002  Mirzaa 5 - 7 P5
+
+002  Mirzaa 5 - 7 P5
+
+002  Mirzaa 8 - 7 P5
+
+002  Mirzaa 8 - 8 P5
+
+002  Mirzaa 11 - 8 P5
+
+002  Mirzaa 11 - 9 P5
+
+002  Mirzaa 11 - 10 P5
+
+002  Mirzaa 14 - 10 P5
+
+002  Mirzaa 14 - 11 P5
+
+002  Mirzaa 14 - 14 P5
+
+002  Mirzaa 15 - 14 P5
+
+002  Mirzaa 15 - 15 P5
+
+002  Mirzaa 15 - 16 P5
+
+002  Mirzaa 16 - 16 P5
+
+002  Mirzaa 17 - 16 P5
+
+002  Mirzaa 18 - 16 P5
+
+002  Mirzaa 18 - 17 P5
+
+002  Mirzaa 19 - 17 P5
+
+002  Mirzaa 30 - 18 P5
+
+P5 won 0 games. Mirzaa won 10 games. There were 0 draws.
+
